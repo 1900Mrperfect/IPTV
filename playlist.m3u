@@ -123,7 +123,7 @@ https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 http://rtmp.one.by:2300/
 #EXTINF:-1 tvg-id="",AZT INTERNATIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="",CARIBBEANHOT 7
+#EXTINF:-1 tvg-id="",CARIBBEANHOT
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
 
 
