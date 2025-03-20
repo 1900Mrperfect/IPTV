@@ -19,20 +19,8 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_M
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="",RTL SPAIN
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-#EXTINF:-1 tvg-id="",DSTV MUSIC
-http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1 tvg-id="",Oxygen Music TV
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="",Rakuten VIKI
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",XITE
-https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",TRACE URBAN
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="",TRACE BRAZLE
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",RETRO MUSIC
-https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="",FRANCE  24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="",TRT WORLD 
@@ -41,66 +29,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/06_1080-30.m3u8
 #EXTINF:-1 tvg-id="",TV5 MONDA
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-id="",CINE 5 TV
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w1110584160.m3u8
-#EXTINF:-1 tvg-id="",TRACE URBAN
-https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="",TRACE URBAN BRAZIL
-https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="",EXTREME TV
-https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-id="",30A Music
-https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:-1 tvg-id="",Avang Music
-https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="",WWW MUSCI
-https://muzzik-live.morescreens.com/mts-5/576p/chunklist.m3u8
-#EXTINF:-1 tvg-id="",AMChannel
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="",Activatv Channel
-https://streamtv.mediasector.es/hls/activatv/0_1/index.m3u8?tkn=3117381465
-#EXTINF:-1 tvg-id="",Africa Beats
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="",TV Impact
-https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1 tvg-id="",KISS TV
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
-#EXTINF:-1 tvg-id="",KRONE HITS
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 tvg-id="",MUZZIK LIVE
-https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
-#EXTINF:-1 tvg-id="",DBM TV FRANCE
-https://edge12.vedge.infomaniak.com/livecast/dbmtv/chunklist_w245501790.m3u8
-#EXTINF:-1 tvg-id="",AUTOMIC TV
-https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 tvg-id="",IMPACT TV
-https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:-1 tvg-id="",SKY FLOK
-https://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="",BEAT FM
-https://tv.beatfm.nl/live.m3u8
-#EXTINF:-1 tvg-id="",CONECTATVX
-https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-id="",MAS FM TV
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1 tvg-id="",KRONEHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="",OCKO TV
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="",YLE STUDIO TV
-https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
-#EXTINF:-1 tvg-id="",WNS TV
-https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="",TV VINTAGE
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 tvg-id="",MUZZIK LIVE
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="",BIZZARR MOVIES
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",POWER TV 
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-id="",TELE7 MUSCI
-https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="",WORLD FASHION
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-id="",WORLD FASHION RUSSIA
@@ -119,8 +49,6 @@ https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
 https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
 #EXTINF:-1 tvg-id="",ROUGE TV3
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
-#EXTINF:-1 tvg-id="",First Music HD
-http://rtmp.one.by:2300/
 #EXTINF:-1 tvg-id="",AZT INTERNATIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="",CARIBBEANHOT
