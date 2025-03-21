@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="",RED MUSIC
+https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="",WORLD FASHION
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-id="",Vintage Music
