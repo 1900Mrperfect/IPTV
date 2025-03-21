@@ -13,4 +13,6 @@ https://cinehls.persiana.live/hls/stream.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-id="",MBC THRILLER
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-id="",WEYYAK ACTION
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 
